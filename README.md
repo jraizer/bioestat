@@ -6,5 +6,6 @@
 
 Em breve tudo estará organizado...
 
-### [Semana 11]
+### [Análise de caminhos](https://github.com/jraizer/bioestat/tree/main/analise-caminhos)
+
 
