@@ -5,34 +5,39 @@
 ***  
 
 Em breve tudo estará organizado...  
+***  
 
-### [Estatística: pra que te quero?]()  
+### Programa das aulas  
+***  
 
-### [Questões científicas e os tipos lógicos de pesquisa]()  
+#### [Estatística: pra que te quero?]()  
 
-### [Delineamento da amostragem: como ter uma boa chance de obter boas respostas]()  
+#### [Questões científicas e os tipos lógicos de pesquisa]()  
 
-### [Observações independentes ou pseudo réplicas?]()  
+#### [Delineamento da amostragem: como ter uma boa chance de obter boas respostas]()  
 
-### [Estatística descritiva]()  
+#### [Observações independentes ou pseudo réplicas?]()  
 
-### [População, amostra e os passos gerias para qualquer teste de hipótese]()  
+#### [Estatística descritiva]()  
 
-### [Teste t de Student]()  
+#### [População, amostra e os passos gerias para qualquer teste de hipótese]()  
 
-### [Acúmulo de erros em comparações múltiplas e Análise de variância]()  
+#### [Teste t de Student]()  
 
-### [Modelos lineares]()  
+#### [Acúmulo de erros em comparações múltiplas e Análise de variância]()  
 
-### [Modelos não lineares]()  
+#### [Modelos lineares]()  
 
-### [Regressão múltipla]()  
+#### [Modelos não lineares]()  
 
-### [Interações e seleção de variáveis]()  
+#### [Regressão múltipla]()  
 
-### [Análise de caminhos](https://github.com/jraizer/bioestat/tree/main/analise-caminhos)  
+#### [Interações e seleção de variáveis]()  
 
-### [Análises multivariadas](https://github.com/jraizer/bioestat/tree/main/analise-multivariada)  
+#### [Análise de caminhos](https://github.com/jraizer/bioestat/tree/main/analise-caminhos)  
 
+#### [Análises multivariadas](https://github.com/jraizer/bioestat/tree/main/analise-multivariada)  
+
+***  
 
 
