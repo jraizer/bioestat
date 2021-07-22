@@ -8,4 +8,7 @@ Em breve tudo estará organizado...
 
 ### [Análise de caminhos](https://github.com/jraizer/bioestat/tree/main/analise-caminhos)
 
+### [Análises multivariadas] (https://github.com/jraizer/bioestat/tree/main/analise-multivariada)
+
+
 
